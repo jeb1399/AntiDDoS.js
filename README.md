@@ -1,3 +1,7 @@
+## READ THIS FIRST!!!
+
+This is only a very SIMPLE DDoS protection node that ONLY limits rates and closes connections NOTHING ELSE!
+
 # Setup
 
 First in a terminal window (or cmd for windows) run `git clone https://github.com/jeb1399/AntiDDoS.js.git`
