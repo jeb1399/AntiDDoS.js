@@ -4,7 +4,7 @@ This is only a very SIMPLE DDoS protection node that ONLY limits rates and close
 
 # Setup
 
-First in a terminal window (or cmd for windows) run `git clone https://github.com/jeb1399/AntiDDoS.js.git`
+First in a terminal window (or cmd for windows) run ``git clone https://github.com/jeb1399/AntiDDoS.js.git``
 
 For windows users just download this ENTIRE repository and save it as a .zip then extract and run the setup.bat file
 
